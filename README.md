@@ -8,15 +8,17 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- ⚡ Tech enthusiast passionate about blending code and culture, especially Japanese tradition🎌.
+- My curiosity helps me give my best on every project I take, it helps me in keeping up with new technologies, learning new skills, and always coming up with a new and generous approach to a problem.
 
 - I believe that you will become what you think. I believe in the quote **The only limits on your life are those you set yourself.** from "The monk who sold his ferrary" and **“Those who do not remember the past are condemned to repeat it.”** from The Intelligent Investor by Benjamin Graham.
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON, SQL**
+- ⚡ Fun fact I do what I enjoy doing !
 
 - 📫 How to reach me **lalliakshaya@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true](https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true]
+-  (https://drive.google.com/file/d/1MW-baOy1vmk04U0D4T6hTmjfHAAJW2Db/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +29,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanikaithepalli&show_icons=true&locale=en&layout=compact" alt="subhanikaithepalli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalithaakshaya&show_icons=true&locale=en&layout=compact" alt="lalithaakshaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanikaithepalli&show_icons=true&locale=en" alt="subhanikaithepalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalithaakshaya&show_icons=true&locale=en" alt="lalithaakshaya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanikaithepalli&" alt="subhanikaithepalli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithaakshaya&" alt="lalithaakshaya" /></p>
