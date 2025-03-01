@@ -17,13 +17,12 @@
 
 - 📫 How to reach me **lalliakshaya@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1ISe2y3q4tQwtuNeylgSql2brZwUDQ12N/edit?usp=sharing&ouid=105881183063495051653&rtpof=true&sd=true]
--  (https://drive.google.com/file/d/1MW-baOy1vmk04U0D4T6hTmjfHAAJW2Db/view?usp=sharing)]
+- 📄 Know about my experiences  (https://drive.google.com/file/d/1MW-baOy1vmk04U0D4T6hTmjfHAAJW2Db/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/" height="30" width="40" /></a>
-<a href="https://instagram.com/subhani____28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhani____28" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/lalitha-akshaya-1a2399259/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/" height="30" width="40" /></a>
+<a href="https://instagram.com/_lalitha_akshaya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhani____28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
